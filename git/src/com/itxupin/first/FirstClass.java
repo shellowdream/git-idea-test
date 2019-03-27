@@ -8,4 +8,8 @@ public class FirstClass {
         System.out.println("hellow");
         System.out.println("hellow");
         }
+
+        public void fun(){
+            System.out.println("aaa");
+        }
 }
