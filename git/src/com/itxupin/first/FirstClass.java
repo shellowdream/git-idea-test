@@ -7,9 +7,13 @@ public class FirstClass {
         System.out.println("hellow");
         System.out.println("hellow");
         System.out.println("hellow");
-        }
+        //hello
+        //test
+    }
 
-        public void fun(){
-            System.out.println("aaabbb");
-        }
+    public void fun() {
+        System.out.println("aaabbb");
+        System.out.println("aaabbb");
+        System.out.println("aaabbb");
+    }
 }
