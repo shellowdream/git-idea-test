@@ -10,6 +10,6 @@ public class FirstClass {
         }
 
         public void fun(){
-            System.out.println("aaa");
+            System.out.println("aaabbb");
         }
 }
